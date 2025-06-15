@@ -6,7 +6,7 @@ An interactive, animated web experience that brings the Sidcup Family Golf venue
 
 ## 🧭 Live Demo
 
-Explore the full interactive site here: [Sidcup Family Golf Live](https://sidcupfamilygolf.com)
+Explore the full interactive site here: [Sidcup Family Golf Live](https://saheb-developer.github.io/Sidecup-Family-Golf/)
 
 ---
 
@@ -45,6 +45,3 @@ Explore the full interactive site here: [Sidcup Family Golf Live](https://sidcup
    git clone https://github.com/Saheb-developer/Sidecup-Family-Golf.git
    cd Sidecup-Family-Golf
 
-   ---
-   
-Feel free to adjust any sections—such as adding screenshots, a video demo, or customizing the license—to better fit your style or preferences. Let me know if you’d like help with that too!14
